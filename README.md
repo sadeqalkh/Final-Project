@@ -15,4 +15,10 @@
 
 Final Idea: The Lens Clock
 
-[20200408105107214.pdf](https://github.com/sadeqalkh/Final-Project/files/4449050/20200408105107214.pdf)
+<img width="887" alt="Machine Lab 4" src="https://user-images.githubusercontent.com/60816393/78759679-0d628280-7991-11ea-8790-a2cebd0b950e.png">
+
+<img width="893" alt="Machine Lab 3" src="https://user-images.githubusercontent.com/60816393/78759696-14899080-7991-11ea-9cc9-395dfeeb278e.png">
+
+<img width="901" alt="Machine Lab 1" src="https://user-images.githubusercontent.com/60816393/78759721-1ce1cb80-7991-11ea-80be-7a4bc8aabdc6.png">
+
+<img width="901" alt="Machine Lab 2" src="https://user-images.githubusercontent.com/60816393/78759718-18b5ae00-7991-11ea-9792-e25b74627e5d.png">
