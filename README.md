@@ -38,16 +38,23 @@ Fusion 360 design components:
 
 Main Component
 <img width="762" alt="Main Component" src="https://user-images.githubusercontent.com/60816393/79313745-de5c8b80-7f11-11ea-9e35-179056104060.png">
+
 IRIS Component
 <img width="768" alt="IRIS Component" src="https://user-images.githubusercontent.com/60816393/79313753-e1f01280-7f11-11ea-8661-9c920b309134.png">
+
 Base Component
 <img width="587" alt="Base Component" src="https://user-images.githubusercontent.com/60816393/79313761-e3b9d600-7f11-11ea-9333-02e17fe963aa.png">
+
 Linkage 1
 <img width="781" alt="Linkage 1" src="https://user-images.githubusercontent.com/60816393/79316082-e23ddd00-7f14-11ea-91a0-857dfe67ff8c.png">
+
 Linkage 2
 <img width="778" alt="Linkage 2" src="https://user-images.githubusercontent.com/60816393/79316088-e538cd80-7f14-11ea-8e1d-ce504a141d35.png">
+
 Linkage 3
 <img width="782" alt="Linkage 3" src="https://user-images.githubusercontent.com/60816393/79316093-e833be00-7f14-11ea-93b7-3c276afa7047.png">
+
 Linkage 4
+<img width="758" alt="Linkage 4" src="https://user-images.githubusercontent.com/60816393/79316099-eb2eae80-7f14-11ea-8065-ed3ab8ebe0f1.png">
 
 Linkage 5
