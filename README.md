@@ -45,7 +45,7 @@ Base Component
 Linkage 1
 <img width="781" alt="Linkage 1" src="https://user-images.githubusercontent.com/60816393/79316082-e23ddd00-7f14-11ea-91a0-857dfe67ff8c.png">
 Linkage 2
-
+<img width="778" alt="Linkage 2" src="https://user-images.githubusercontent.com/60816393/79316088-e538cd80-7f14-11ea-8e1d-ce504a141d35.png">
 Linkage 3
 
 Linkage 4
