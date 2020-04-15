@@ -29,9 +29,9 @@ Updated design of the project:
 
 Fusion 360 design components:
 
-- Main Component
+-  Main Component
 <img width="762" alt="Main Component" src="https://user-images.githubusercontent.com/60816393/79313745-de5c8b80-7f11-11ea-9e35-179056104060.png">
-- IRIS Component
+-  IRIS Component
 <img width="768" alt="IRIS Component" src="https://user-images.githubusercontent.com/60816393/79313753-e1f01280-7f11-11ea-8661-9c920b309134.png">
-- Base Component
+-  Base Component
 <img width="587" alt="Base Component" src="https://user-images.githubusercontent.com/60816393/79313761-e3b9d600-7f11-11ea-9333-02e17fe963aa.png">
