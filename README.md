@@ -26,3 +26,10 @@ Final Idea: The Lens Clock
 Updated design of the project:
 
 <img width="709" alt="Screen Shot 2020-04-15 at 11 57 06 AM" src="https://user-images.githubusercontent.com/60816393/79312662-48743100-7f10-11ea-8e5e-d009a5863a7c.png">
+
+Fusion 360 design components:
+
+
+<img width="762" alt="Main Component" src="https://user-images.githubusercontent.com/60816393/79313745-de5c8b80-7f11-11ea-9e35-179056104060.png">
+<img width="768" alt="IRIS Component" src="https://user-images.githubusercontent.com/60816393/79313753-e1f01280-7f11-11ea-8661-9c920b309134.png">
+<img width="587" alt="Base Component" src="https://user-images.githubusercontent.com/60816393/79313761-e3b9d600-7f11-11ea-9333-02e17fe963aa.png">
