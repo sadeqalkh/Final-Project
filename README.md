@@ -43,7 +43,7 @@ IRIS Component
 Base Component
 <img width="587" alt="Base Component" src="https://user-images.githubusercontent.com/60816393/79313761-e3b9d600-7f11-11ea-9333-02e17fe963aa.png">
 Linkage 1
-
+<img width="781" alt="Linkage 1" src="https://user-images.githubusercontent.com/60816393/79316082-e23ddd00-7f14-11ea-91a0-857dfe67ff8c.png">
 Linkage 2
 
 Linkage 3
