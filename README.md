@@ -1,3 +1,4 @@
+Introductory phase, picking an intendent theme or getting inspiration from it.
 1st Theme
 -	The Solar System Clock:
 
@@ -12,7 +13,7 @@
 -	The Wooden/Cardboard Gear Clock:
 
 ![Sketch 3](https://user-images.githubusercontent.com/60816393/78112145-d6c7bd80-740e-11ea-9d30-37ac9de5b623.jpg)
-
+------------------------------------------------------------------------------------------------------------------------------
 Final Idea: The Lens Clock
 
 <img width="887" alt="Machine Lab 4" src="https://user-images.githubusercontent.com/60816393/78759679-0d628280-7991-11ea-8790-a2cebd0b950e.png">
