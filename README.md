@@ -22,3 +22,7 @@ Final Idea: The Lens Clock
 <img width="901" alt="Machine Lab 1" src="https://user-images.githubusercontent.com/60816393/78759721-1ce1cb80-7991-11ea-80be-7a4bc8aabdc6.png">
 
 <img width="901" alt="Machine Lab 2" src="https://user-images.githubusercontent.com/60816393/78759718-18b5ae00-7991-11ea-9792-e25b74627e5d.png">
+
+Updated design of the project:
+
+<img width="709" alt="Screen Shot 2020-04-15 at 11 57 06 AM" src="https://user-images.githubusercontent.com/60816393/79312662-48743100-7f10-11ea-8e5e-d009a5863a7c.png">
