@@ -14,7 +14,9 @@ Third Theme
 
 ![Sketch 3](https://user-images.githubusercontent.com/60816393/78112145-d6c7bd80-740e-11ea-9d30-37ac9de5b623.jpg)
 
+
 ------------------------------------------------------------------------------------------------------------------------------
+
 
 Final Idea: The Lens Clock
 
@@ -26,13 +28,17 @@ Final Idea: The Lens Clock
 
 <img width="901" alt="Machine Lab 2" src="https://user-images.githubusercontent.com/60816393/78759718-18b5ae00-7991-11ea-9792-e25b74627e5d.png">
 
+
 ------------------------------------------------------------------------------------------------------------------------------
+
 
 Updated design of the project:
 
 <img width="709" alt="Screen Shot 2020-04-15 at 11 57 06 AM" src="https://user-images.githubusercontent.com/60816393/79312662-48743100-7f10-11ea-8e5e-d009a5863a7c.png">
 
+
 ------------------------------------------------------------------------------------------------------------------------------
+
 
 Fusion 360 design components:
 
