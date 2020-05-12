@@ -9,12 +9,13 @@ Second Theme
 -	The Walking Horse:
 
 ![Sketch 2](https://user-images.githubusercontent.com/60816393/78111978-95371280-740e-11ea-8d8c-7868de524df3.jpg)
-My intension in this theme is to simply create a horse that is walking o
+My intension in this theme is to simply create a horse which walks to motivate time. 
+
 Third Theme
 -	The Wooden/Cardboard Gear Clock:
 
 ![Sketch 3](https://user-images.githubusercontent.com/60816393/78112145-d6c7bd80-740e-11ea-9d30-37ac9de5b623.jpg)
-
+My intension in this theme is to establish the idea of what intrinsically motivates most clocks worldwide. The gears from this project will be moving ten revolutions every hour. The clock from this project, however, will not be driven by the demonstrated gears. In which, the clock in this project will be controlled by a stepper motor.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
