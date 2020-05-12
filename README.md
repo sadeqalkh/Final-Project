@@ -18,7 +18,10 @@ Third Theme
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-Final Idea: The Lens Clock
+Narrowing the ideas in to the theme of "One's daily habit." As I was thinking of a daily habit, examples like swimming and walking came in my mind in the begining. Mainly because of how they tended to be more dynamic from my other habits. I then thought of photography; however, I felt that it will be challenging that is mostly because of how I defined motion in a picture but not the DSLR itself. Knowing that a camera is a static object, I started to explore how it might be dynamic to implement in a clock. I brought my camera beside me and started to sperate the lens from the DSLR. As I reached to this stage I discovered that there is indeed a dynamic motion with the DSLR's iris and shutter. Also, I realized that there is a physical motion implemented to the Lens's ND Filter by the user.
+As I discovered most of the movements in the Lens, I then started to sketch the main components of the dynamic lens.
+
+The Lens Clock
 
 <img width="887" alt="Machine Lab 4" src="https://user-images.githubusercontent.com/60816393/78759679-0d628280-7991-11ea-8790-a2cebd0b950e.png">
 
