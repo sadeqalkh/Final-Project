@@ -3,6 +3,7 @@ First Theme
 -	The Solar System Clock:
 
 ![Sketch 1](https://user-images.githubusercontent.com/60816393/78111908-70db3600-740e-11ea-94ba-ab2e4e3735e5.jpg)
+My intension in this theme is to establish the relationship between motion/orbits and time and that is mostley inspired from physics. In which, motion is the phenomenon that an object changes its position over time. As it may seems complex, creating this clock was not a challenge knowing that 
 
 Second Theme
 -	The Walking Horse:
