@@ -3,13 +3,13 @@ First Theme
 -	The Solar System Clock:
 
 ![Sketch 1](https://user-images.githubusercontent.com/60816393/78111908-70db3600-740e-11ea-94ba-ab2e4e3735e5.jpg)
-My intension in this theme is to establish the relationship between motion/orbits and time and that is mostley inspired from physics. In which, motion is the phenomenon that an object changes its position over time. As it may seems complex, creating this clock was not a challenge knowing that 
+My intension in this theme is to establish the relationship between motion/orbits and time, mostly inspired by physics. In which, motion is the phenomenon that an object changes its position over time. As it may seem complicated, creating this clock was not a challenge knowing that the Sun will be represented as hours, Earth as Minutes, and the Moon as seconds. I felt that it would be easy for the viewers to identify this element by there sizes. Because we know that the Sun is stable, I thought of implementing LED lights to represent hours and that the "Sun" is our source of energy.
 
 Second Theme
 -	The Walking Horse:
 
 ![Sketch 2](https://user-images.githubusercontent.com/60816393/78111978-95371280-740e-11ea-8d8c-7868de524df3.jpg)
-
+My intension in this theme is to simply create a horse that is walking o
 Third Theme
 -	The Wooden/Cardboard Gear Clock:
 
