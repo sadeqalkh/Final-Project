@@ -38,6 +38,7 @@ The Lens Clock
 
 
 Updated design of the project:
+
 At this point in the design, I have decided to simplify the main idea because of some issues that will encounter the final design. In which, I realized that as soon as the whole lens completes a revolution. The wires within will be forced to twist and, thus to damage it. 
 
 <img width="709" alt="Screen Shot 2020-04-15 at 11 57 06 AM" src="https://user-images.githubusercontent.com/60816393/79312662-48743100-7f10-11ea-8e5e-d009a5863a7c.png">
