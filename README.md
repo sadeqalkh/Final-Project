@@ -50,6 +50,8 @@ The idea of having a clock and the Lens as an aesthetic shape will not be consid
 
 Fusion 360 design components:
 
+As I reached this stage, I have decided to implement a physical force to motive the IRIS movements instead of the stepper motor. Mainly because the motor was not accessible and that it will be easier to determine issues and developments in the fabrication.
+
 Main Component
 <img width="762" alt="Main Component" src="https://user-images.githubusercontent.com/60816393/79313745-de5c8b80-7f11-11ea-9e35-179056104060.png">
 
