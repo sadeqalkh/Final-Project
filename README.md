@@ -76,6 +76,7 @@ Linkage 4
 Linkage 5
 <img width="790" alt="Linkage 5" src="https://user-images.githubusercontent.com/60816393/79316104-eec23580-7f14-11ea-86aa-338e1731cb3a.png">
 
+Developed Final IRIS mechanism design.
 <img width="794" alt="Screen Shot 2020-05-14 at 9 09 11 PM" src="https://user-images.githubusercontent.com/60816393/81964142-3b3d8580-9627-11ea-8837-627a21429cda.png">
 
 ------------------------------------------------------------------------------------------------------------------------------
