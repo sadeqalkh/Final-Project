@@ -76,6 +76,8 @@ Linkage 4
 Linkage 5
 <img width="790" alt="Linkage 5" src="https://user-images.githubusercontent.com/60816393/79316104-eec23580-7f14-11ea-86aa-338e1731cb3a.png">
 
+<img width="794" alt="Screen Shot 2020-05-14 at 9 09 11 PM" src="https://user-images.githubusercontent.com/60816393/81964142-3b3d8580-9627-11ea-8837-627a21429cda.png">
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 As I looked deeper into the IRIS design and explored its fabrication, I have realized that I should implement new mechanisms besides the lens. In which, the lens can be portrayed as the main inspiration to a secondary background mechanism that works independently. So I started a sketch to a similar concept that is fully motivated by linkages.
