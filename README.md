@@ -82,3 +82,5 @@ As I looked deeper into the IRIS design and explored its fabrication, I have rea
 
 ![Sketch of the Background Design](https://user-images.githubusercontent.com/60816393/81958777-818ee680-961f-11ea-9a05-3e274c1b60af.jpeg)
 
+After sketching the background design, I felt confident in creating a model of it in fusion 360, in which I can explore issues and develop them much further. My intension is to firstly create its design that will be motivated by our hands. I have realized from the main design, the IRIS mechanism, that it was hard to imagine its movements with a motor since it is defined in fusion to be a static model of either the stepper or servo motors.
+
